@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+spyOn(${1:controller}, ${2:function}).andCallThrough();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bdsct</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+	<description>jasmine:spyOnAndCallThrough</description>
+</snippet>
+
